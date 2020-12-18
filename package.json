@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Dave Oster"
+  },
+  "contributors": [],
+  "description": "All Components and functions synced across both Web and Mobile Applications for DealMachine",
+  "files": [
+    "actions/",
+    "apis/",
+    "app/assets/",
+    "reducers/"
+  ],
+  "homepage": "https://github.com/daveosterjr/DealMachineCore",
+  "license": "MIT",
+  "name": "dealmachine-core",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveosterjr/DealMachineCore.git"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "babel-eslint": "^8.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-react": "^7.16.0",
+    "webpack": "^4.41.2"
+  }
+}
